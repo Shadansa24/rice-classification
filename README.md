@@ -43,14 +43,6 @@ The following algorithms were implemented and evaluated:
 - Naive Bayes struggled due to strong assumptions about feature distribution.
 
 ---
-📂 rice-classification/
-│──  rice_classification.py # Contains all ML algorithms
-│──  rice_dataset.csv # Full dataset
-│──  requirements.txt # Dependencies
-│──  README.md # Project documentation
-
-
----
 
 ## 📊 Model Performance Summary
 
@@ -94,6 +86,4 @@ Includes:
 - Classification report  
 - Training visualizations  
 
-
-## 📁 Repository Structure
 
